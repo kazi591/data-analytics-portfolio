@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-Siyam Rahman – Data Analytics Portfolio
+Kazi Toufikur Rahman Siyam – Data Analytics Portfolio
 
 Welcome to my portfolio.
 
